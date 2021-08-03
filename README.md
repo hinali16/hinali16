@@ -1,4 +1,4 @@
-<h3 align="left"><p>Olá eu sou a Vanessa</p></h3>
+<h3 align="left"><p>Olá, eu sou a Vanessa</p></h3>
 <p align="left">
  <img src="https://cdn.discordapp.com/attachments/322839218676170753/871911032904351774/reactpage2.png"/>
 <h2 align="center"><p>Seja bem vindo, ao meu Github!</p></h2>
