@@ -3,8 +3,8 @@
  <img src="https://cdn.discordapp.com/attachments/322839218676170753/871911032904351774/reactpage2.png"/>
 <h2 align="center"><p>Seja bem vindo, ao meu Github!</p></h2>
 </p>
-<p align="center">
-  
+https://github-readme-stats.vercel.app/api/top-langs/?username={hinali16}
+<p align="center"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
